@@ -36,7 +36,7 @@ body {
 
 header,
 main {
-    background-color: var(--color-background);
+    background-color: #9A9A9A;
     color: #9A9A9A;
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
@@ -50,7 +50,7 @@ header {
     display: flex;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
-    background-color: var(--color-primary);
+    background-color: #9A9A9A;
     color: #9A9A9A;
 }
 @media screen and (min-width: 1366px) {
