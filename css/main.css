@@ -40,8 +40,8 @@ body {
 
 header,
 main {
-    background-color: #ff9d5c;
-    color: #ff5ce7;
+    background-color: ##61ffc5;
+    color: ##61ffc5;
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
             16em,
@@ -54,7 +54,7 @@ header {
     display: flex;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
-    background-color: #4b4b4b;
+    background-color: ##61ffc5;
     color: white;
 }
 @media screen and (min-width: 1366px) {
