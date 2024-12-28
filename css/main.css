@@ -41,7 +41,7 @@ body {
 header,
 main {
     background-color: white;
-    color: #202021;
+    color: #ff5ce7;
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
             16em,
