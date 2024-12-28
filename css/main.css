@@ -40,7 +40,7 @@ body {
 
 header,
 main {
-    background-color: white;
+    background-color: #ff9d5c;
     color: #ff5ce7;
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
