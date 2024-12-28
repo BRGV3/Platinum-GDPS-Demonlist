@@ -2,28 +2,28 @@
 main.dark,
 header.dark 
     color-scheme: dark;
-    --color-background: ##61ffc5;
+    --color-background: #61ffc5;
     --color-on-background: white;
     --color-background-hover: white;
     --color-on-background-hover: #61ffef;
-    --color-primary:##61ffc5;
+    --color-primary:#61ffc5;
     --color-primary-disabled: #61ffc5;
     --color-on-primary: white;
-    --color-error: ##61ffc5;
+    --color-error: #61ffc5;
     --color-on-error: white;
 }
 
 main.dark,
 header.dark {
     color-scheme: dark;
-    --color-background: ##61ffc5;
-    --color-on-background: ##61ffc5;
+    --color-background: #61ffc5;
+    --color-on-background: #61ffc5;
     --color-background-hover: white;
     --color-on-background-hover: #white;
-    --color-primary:##61ffc5;
-    --color-primary-disabled: ##61ffc5;
+    --color-primary:#61ffc5;
+    --color-primary-disabled: #61ffc5;
     --color-on-primary: white;
-    --color-error: ##61ffc5;
+    --color-error: #61ffc5;
     --color-on-error: white;
 }
 
