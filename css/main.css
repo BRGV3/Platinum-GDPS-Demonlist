@@ -2,10 +2,10 @@
 main.dark,
 header.dark 
     color-scheme: dark;
-    --color-background: ##d7ff61;
+    --color-background: #d7ff61;
     --color-on-background: white;
     --color-background-hover: white;
-    --color-on-background-hover: ##61ffef;
+    --color-on-background-hover: #61ffef;
     --color-primary:#7c7c7c;
     --color-primary-disabled: #7c7c7c;
     --color-on-primary: white;
@@ -16,7 +16,7 @@ header.dark
 main.dark,
 header.dark {
     color-scheme: dark;
-    --color-background: ##b061ff;
+    --color-background: #b061ff;
     --color-on-background: #565559;
     --color-background-hover: white;
     --color-on-background-hover: #white;
